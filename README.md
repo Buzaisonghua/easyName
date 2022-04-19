@@ -6,7 +6,8 @@
 - MAC ` Cmd+.`
 - 其它 ` Ctrl+Alt+.`
 
-<img src="https://raw.githubusercontent.com/Buzaisonghua/easyName/blob/main/src/img/example.gif" width="800px" />
+<img src="https://github.com/Buzaisonghua/easyName/raw/main/src/img/example.gif" width="800px" />
+
 ### 为什么使用它
 
 - 直接将选中的中文替换为英文
