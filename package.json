@@ -1,7 +1,7 @@
 {
 	"name": "easyname",
 	"displayName": "easyName",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "easyName",
 	"engines": {
 		"vscode": "^1.65.2"
